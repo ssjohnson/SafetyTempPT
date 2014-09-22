@@ -1,4 +1,3 @@
-// xively: grud password: nodiving
 
 #include <Wire.h>
 #include <SoftwareSerial.h>
