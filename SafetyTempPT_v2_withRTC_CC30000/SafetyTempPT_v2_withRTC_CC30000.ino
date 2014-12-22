@@ -28,8 +28,8 @@
 
 //WiFi info for CC3000
 
-#define WLAN_SSID "44DX0"
-#define WLAN_PASS "38776bab08"
+#define WLAN_SSID "00"
+#define WLAN_PASS "00"
 #define WLAN_SECURITY WLAN_SEC_WPA2
 
 //Xivley.com info for CC3000
